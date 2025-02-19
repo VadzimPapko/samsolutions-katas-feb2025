@@ -1,4 +1,4 @@
-# Architecture Decision Record (ADR): Use cases for Certificable, Inc Platform
+# ADR-007: Use cases for Certificable, Inc Platform
 
 ## **Context**
 The platform aims to streamline candidate testing, result assessment, and administrative workflows. Key actors include **Candidates**, **Administrators**, **HR**, **Experts** and  **AI Engenieer**.

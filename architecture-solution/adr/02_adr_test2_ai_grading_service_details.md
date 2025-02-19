@@ -1,4 +1,4 @@
-# Architecture Decision Record (ADR): AI Grading Service
+# ADR-003: AI Grading Service
 
 ## **Title**
 System Architecture Overview for AI Grading Service

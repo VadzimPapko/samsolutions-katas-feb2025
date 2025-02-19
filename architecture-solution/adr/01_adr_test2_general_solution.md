@@ -1,4 +1,4 @@
-# Architecture Decision Record (ADR): Certification Process (Test 2: Architecture Solution)
+# ADR-002: Certification Process (Test 2: Architecture Solution)
 
 ## **Title**
 Solution for Certification Process (Test 2: Architecture Solution)

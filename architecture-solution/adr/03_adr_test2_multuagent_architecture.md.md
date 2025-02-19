@@ -1,4 +1,4 @@
-# Architecture Decision Record (ADR): Multi-Agent Architecture
+# ADR-004: Multi-Agent Architecture
 
 ## **Title**
 Multi-Agent Architecture Overview

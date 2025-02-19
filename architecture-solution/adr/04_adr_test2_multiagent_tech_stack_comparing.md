@@ -1,4 +1,4 @@
-# Architecture Decision Record (ADR): Multi-Agent Framework Selection
+# ADR-005: Multi-Agent Framework Selection
 
 ## **Title**
 Selection of a Multi-Agent Framework for AI Task Orchestration

@@ -1,4 +1,4 @@
-# Architecture Decision Record (ADR): Selection of Open-Source LLM for Commercial Use
+# ADR-006: Selection of Open-Source LLM for Commercial Use
 
 ## **Title**
 Choosing an Open-Source LLM Model with Image-to-Text Support for Commercial Applications
