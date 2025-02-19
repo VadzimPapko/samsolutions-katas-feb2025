@@ -27,18 +27,18 @@ This repository contains the **architectural solution** for an AI-enhanced **sof
 ## **📜 Documentation**
 | File Name                                         | Description |
 |---------------------------------------------------|-------------|
-| [01-introduction.md](docs/01-introduction.md)     | Project background and problem statement |
-| [02-requirements.md](docs/02-requirements.md)     | Formalized & non-formalized requirements |
-| [03-architecture-overview.md](docs/03-architecture-overview.md) | High-level system architecture |
-| [03.01-architecture-short-answer.md](docs/03.01-architecture-short-answer.md) | Architecture for short-answer grading |
-| [03.02-architecture-ai_grading_service.md](docs/03.02-architecture-ai_grading_service.md) | AI grading service architecture |
-| [04-ai-integration.md](docs/04-ai-integration.md) | How AI is used for grading and automation |
-| [05-use-case.md](docs/05-use-case.md)             | Breakdown of key modules and responsibilities |
-| [06-multi-agent_architecture.md](docs/06-multi-agent_architecture.md) | Multi-agent system architecture |
-| [07-environment-analysis.md](docs/07-environment-analysis.md) | Environment analysis |
-| [08-cost-analysis.md](docs/08-cost-analysis.md)   | Cost analysis |
-| [09-technologies.md](docs/09-technologies.md)     | Technologies used |
-| [10-conclusion.md](docs/10-conclusion.md)         | Final thoughts and future improvements |
+| [01-introduction.md](./architecture-solution/docs/01-introduction.md)     | Project background and problem statement |
+| [02-requirements.md](./architecture-solution/docs/02-requirements.md)     | Formalized & non-formalized requirements |
+| [03-architecture-overview.md](./architecture-solution/docs/03-architecture-overview.md) | High-level system architecture |
+| [03.01-architecture-short-answer.md](./architecture-solution/docs/03.01-architecture-short-answer.md) | Architecture for short-answer grading |
+| [03.02-architecture-ai_grading_service.md](./architecture-solution/docs/03.02-architecture-ai_grading_service.md) | AI grading service architecture |
+| [04-ai-integration.md](./architecture-solution/docs/04-ai-integration.md) | How AI is used for grading and automation |
+| [05-use-case.md](./architecture-solution/docs/05-use-case.md)             | Breakdown of key modules and responsibilities |
+| [06-multi-agent_architecture.md](./architecture-solution/docs/06-multi-agent_architecture.md) | Multi-agent system architecture |
+| [07-environment-analysis.md](./architecture-solution/docs/07-environment-analysis.md) | Environment analysis |
+| [08-cost-analysis.md](./architecture-solution/docs/08-cost-analysis.md)   | Cost analysis |
+| [09-technologies.md](./architecture-solution/docs/09-technologies.md)     | Technologies used |
+| [10-conclusion.md](./architecture-solution/docs/10-conclusion.md)         | Final thoughts and future improvements |
 
 ## **🚀 Getting Started**
 ### **🔹 Clone the Repository**
