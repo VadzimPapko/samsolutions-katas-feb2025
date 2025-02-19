@@ -25,19 +25,20 @@ This repository contains the **architectural solution** for an AI-enhanced **sof
 ✅ **Modular System Design** - Easy to extend and update as certification needs evolve.  
 
 ## **📜 Documentation**
-| File Name                     | Description |
-|--------------------------------|-------------|
-| [01-introduction.md](docs/01-introduction.md) | Project background and problem statement |
-| [02-requirements.md](docs/02-requirements.md) | Formalized & non-formalized requirements |
+| File Name                                         | Description |
+|---------------------------------------------------|-------------|
+| [01-introduction.md](docs/01-introduction.md)     | Project background and problem statement |
+| [02-requirements.md](docs/02-requirements.md)     | Formalized & non-formalized requirements |
 | [03-architecture-overview.md](docs/03-architecture-overview.md) | High-level system architecture |
+| [03.01-architecture-short-answer.md](docs/03.01-architecture-short-answer.md) | Architecture for short-answer grading |
+| [03.02-architecture-ai_grading_service.md](docs/03.02-architecture-ai_grading_service.md) | AI grading service architecture |
 | [04-ai-integration.md](docs/04-ai-integration.md) | How AI is used for grading and automation |
-| [05-system-components.md](docs/05-system-components.md) | Breakdown of key modules and responsibilities |
-| [06-data-flow.md](docs/06-data-flow.md) | Movement of data between system components |
-| [07-security-considerations.md](docs/07-security-considerations.md) | Security measures and best practices |
-| [08-deployment-strategy.md](docs/08-deployment-strategy.md) | Cloud deployment and CI/CD pipeline |
-| [09-trade-offs.md](docs/09-trade-offs.md) | Decision rationale and trade-offs |
-| [10-conclusion.md](docs/10-conclusion.md) | Final thoughts and future improvements |
-| [11-references.md](docs/11-references.md) | External sources and additional resources |
+| [05-use-case.md](docs/05-use-case.md)             | Breakdown of key modules and responsibilities |
+| [06-multi-agent_architecture.md](docs/06-multi-agent_architecture.md) | Multi-agent system architecture |
+| [07-environment-analysis.md](docs/07-environment-analysis.md) | Environment analysis |
+| [08-cost-analysis.md](docs/08-cost-analysis.md)   | Cost analysis |
+| [09-technologies.md](docs/09-technologies.md)     | Technologies used |
+| [10-conclusion.md](docs/10-conclusion.md)         | Final thoughts and future improvements |
 
 ## **🚀 Getting Started**
 ### **🔹 Clone the Repository**
