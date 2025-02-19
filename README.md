@@ -1,5 +1,12 @@
 # 📜 SoftArchCert AI-Powered Certification System
 
+## **👥 Team**
+- **Vadzim Papko** - [LinkedIn](https://www.linkedin.com/in/vadzim-papko/)
+- **Mikhail Shtura** - [LinkedIn](https://www.linkedin.com/in/mikhail-shtura-78699315a/)
+- **Vadim Birkos** - [LinkedIn](https://www.linkedin.com/in/vadim-birkos/)
+- **Andrey Kopanev** - [LinkedIn](https://www.linkedin.com/in/andreykopanev/)
+- **Sergey Pushkin** - [LinkedIn](https://www.linkedin.com/in/sergey-pushkin-a9970712/)
+
 ## **📌 Overview**
 This repository contains the **architectural solution** for an AI-enhanced **software architecture certification system**. The goal is to **modernize and scale** the current certification process by integrating **AI for automated grading**, **enhancing security**, and **improving overall system efficiency**.
 

@@ -11,11 +11,6 @@ Formalized requirements are explicitly defined, structured, and measurable const
 - A passing score of **80% or higher** is required for both tests.
 - Candidates have **30 days** to start the architecture submission after passing the aptitude test.
 - The architecture submission must be **uploaded within 2 weeks** after the case study is assigned.
-- The certification database must store:
-  - **Candidate Name**
-  - **Certification ID**
-  - **Date of Certification**
-  - **Final Score**
 - Candidates who fail should receive **detailed feedback** from expert software architects.
 - Companies must be able to **verify certification status** via a public verification portal.
 
