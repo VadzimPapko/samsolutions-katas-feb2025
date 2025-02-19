@@ -159,6 +159,18 @@ Even under the most demanding conditions, this solution outperforms alternatives
 |           1,500 |               5.5 |                 8,250.0 |            413 |
 |           2,000 |               5.5 |                11,000.0 |            550 |
 
+## Profit Calculation:
+### Including Spendings on IaaS
+
+For 2,000 candidates:
+- **Total Savings**: $745,000
+- **IaaS Spendings** (8x A100 at $358 per 13 hours):
+  - $358 × (2,000 / 2,000) = \$358
+- **Net Profit**:
+  - \$745,000 - \$358 = **$744,642**
+
+Therefore, by leveraging the LLM solution with the IaaS infrastructure, we achieve a net profit of **$744,642** for processing 2,000 candidates.
+
 ### Final Justification:
 - **Time and Cost Efficiency**: The **8x A100 HM** enables us to complete complex processing tasks significantly faster, reducing total operational hours.
 - **Operational Scalability**: This solution scales effectively with our increasing workload demands, minimizing bottlenecks and maximizing throughput.
